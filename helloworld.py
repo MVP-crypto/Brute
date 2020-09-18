@@ -1,5 +1,7 @@
 print("hello world")
 
 
-print("                        -----              -----")
-print("                                 ------")
+name=["kali","linux"]
+index=0
+while index < len(name):
+    print(name)
