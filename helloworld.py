@@ -1,6 +1,7 @@
 print("number 1 addition")
 print("number 2 substraction")
 print("number 3 factor")
+print("number 4 devision")
 x=1
 while x==1:
     choice=int(input("enter here: "))
